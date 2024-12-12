@@ -1,0 +1,7 @@
+# Ignorar dependencias locales para evitar conflictos
+node_modules
+npm-debug.log
+
+# Archivos del sistema operativo o editor de texto
+.DS_Store
+*.log
