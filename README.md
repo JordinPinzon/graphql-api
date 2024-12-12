@@ -19,8 +19,8 @@ Before running the app, make sure you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-cd your_repository
+https://github.com/JordinPinzon/graphql-api.git
+cd graphql-api
 ```
 
 #### Step 2: Install Dependencies
